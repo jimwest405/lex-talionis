@@ -1,5 +1,5 @@
 # lex-talionis
-====================================
+------------------------------------------
 Repo for a new project that takes various actions based on security information.
 ----------------------------------------------------------------------------------
 
