@@ -1,6 +1,7 @@
 # lex-talionis
+====================================
 Repo for a new project that takes various actions based on security information.
-===================================================================================
+----------------------------------------------------------------------------------
 
 lex-talionis is latin for retaliation, but in this case the intention is to not perform any illegal retaliation and the system
 be CFAA compliant.  Name is subject to change
